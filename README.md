@@ -15,7 +15,7 @@ Todo esto es manejado por un backend robusto que se encarga de la autenticación
 
 <br/>
 
-#### Repositorios
+## Repositorios
 :busts_in_silhouette: <a href="https://github.com/ProyectoFinalHenry/Frontend">
     <strong>Frontend Usuarios</strong>
   </a>
