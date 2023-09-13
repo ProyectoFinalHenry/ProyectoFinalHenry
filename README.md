@@ -48,30 +48,10 @@ Todo esto es manejado por un backend robusto que se encarga de la autenticación
 
 ## Creadores
 
+<a href="https://github.com/ProyectoFinalHenry/Frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProyectoFinalHenry/Frontend" />
+</a>
 
-<a href="https://github.com/ChrisPY-31">
-  <img width='50' src='https://github.com/ChrisPY-31.png?size=200'/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/G4s70n">
-  <img width='50' src='https://github.com/G4s70n.png?size=200'/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/JCMartinezGarcia">
-  <img width='50' src='https://github.com/JCMartinezGarcia.png?size=200'/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Fr4nco77">
-  <img width='50' src='https://github.com/Fr4nco77.png?size=200'/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/fingersgames">
-  <img width='50' src='https://github.com/fingersgames.png?size=200'/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/gonzalo00913">
-  <img width='50' src='https://github.com/gonzalo00913.png?size=200'/>
-</a>
 
 <br/><br/>
 
