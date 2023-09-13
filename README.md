@@ -80,9 +80,7 @@ Todo esto es manejado por un backend robusto que se encarga de la autenticación
 
 Puedes ver una demostración de la aplicación en funcionamiento en el siguiente video:
 
-[![Video de Demostración]([https://i.postimg.cc/763NTVYH/pokeApp.jpg)](https://vimeo.com/843752320?share=copy](https://github.com/ProyectoFinalHenry/ProyectoFinalHenry/assets/142262743/9ba19dcf-0599-4e16-b0e9-6bc28a19f6f4))
-
-
+[![Video de Demostración](https://github.com/ProyectoFinalHenry/ProyectoFinalHenry/assets/142262743/33cd2074-c0b7-4e79-9468-abe623870d57)](https://vimeo.com/863408333)
 
 
 
