@@ -40,7 +40,7 @@ Todo esto es manejado por un backend robusto que se encarga de la autenticación
 <br/><br/>
 
 ## Deployed
-:desktop_computer:  <a href="granodeoro.vercel.app/">
+:desktop_computer:  <a href="https://granodeoro.vercel.app/">
     <strong>Grano de Oro</strong>
 
 
